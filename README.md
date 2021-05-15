@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-<h2> Meu nome é Rodrigo e tenho 16 anos :) <img align="right" alt="pinpolim-avatar" src="https://cdn.discordapp.com/attachments/415175828301807629/833091049446178906/823c9004008cd8dcfecb2d6f46ab40070e6f579b_00.gif"> </h2>
+<h2> Meu nome é Rodrigo e tenho 17 anos :) <img align="right" alt="pinpolim-avatar" src="https://cdn.discordapp.com/attachments/415175828301807629/833091049446178906/823c9004008cd8dcfecb2d6f46ab40070e6f579b_00.gif"> </h2>
 
 
 - 🌐 &nbsp;
